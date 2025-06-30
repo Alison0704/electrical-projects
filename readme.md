@@ -7,4 +7,4 @@ Feel free to explore, contribute, or use these projects as a reference for your 
 Links to the current projects.
 
 - [Hardware Verification](https://alison0704.github.io/Hardware-Verification/)
-- 
+- [C and C++ Projects](https://alison0704.github.io/C-CPP-Concepts/)
