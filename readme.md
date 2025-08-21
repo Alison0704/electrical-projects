@@ -5,4 +5,4 @@ This repository contains a collection of electrical engineering projects. Each p
 Links to the current projects.
 
 - [RISC V Core Hardware Verification](https://alison0704.github.io/RISC-V-Core/)
-- [C and C++ Projects](https://alison0704.github.io/C-CPP-Concepts/)
+- [VLSI Project](https://alison0704.github.io/VLSI-Project/)
